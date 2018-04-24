@@ -17,7 +17,7 @@ function makeSetAudioURL(videoElement, url) {
             videoElement.src = url;
             videoElement.currentTime = 0;
             videoElement.play();
-            setBackgroundImage();
+            //setBackgroundImage();
         }
     }
     setAudioURL();
