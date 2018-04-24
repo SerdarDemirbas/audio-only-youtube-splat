@@ -1,6 +1,7 @@
 {
-  "name": "Audio Only Youtube",
-  "version": "0.2",
+  "name": "Audio Only Youtube Splat",
+  "short_name": "Audio Only Youtube Splat",
+  "version": "1.0",
   "manifest_version": 2,
   "description": "Listen to audio only on youtube.",
   "offline_enabled": true,
@@ -23,7 +24,7 @@
     "storage"
   ],
   "browser_action": {
-    "default_title": "Audio Only Youtube"
+    "default_title": "Audio Only Youtube Splat"
   },
   "content_scripts": [
     {
